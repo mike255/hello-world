@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This a test project for a new developer wanting to learn git
